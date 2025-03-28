@@ -1,4 +1,4 @@
-# Health-Tech-and-Hackathon
+
 # Fitness & Lifestyle Prediction Model 🏋️‍♂️🥗
 
 ## Project Overview 📌
